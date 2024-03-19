@@ -1,2 +1,2 @@
-# Wrap-up-your-chaos
-An application designed to organize books and films
+# Wrap up your chaos
+The project using object-oriented programming created for organizing books and films
