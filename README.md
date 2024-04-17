@@ -3,7 +3,7 @@ The project using object-oriented programming created for organizing books and f
 
 
 PL: 
-Projekt został stworzony w ramach zajęć z paradygmatów programowania we współpracy z @paulina. Naszym celem było napisanie programu z wykorzystaniem programowania obiektowego i stworzenie graficznego interfejsu użytkownika. Postanowiłyśmy stworzyć aplikację o nazwie „Wrap Up Your Chaos”, która mogłaby być użyteczna w życiu codziennym.
+Projekt został stworzony w ramach zajęć z paradygmatów programowania we współpracy z @paulina-biocoder. Naszym celem było napisanie programu z wykorzystaniem programowania obiektowego i stworzenie graficznego interfejsu użytkownika. Postanowiłyśmy stworzyć aplikację o nazwie „Wrap Up Your Chaos”, która mogłaby być użyteczna w życiu codziennym.
 
 Jako osoby lubiące czytać książki i trzymać je na swoich półkach, często pożyczamy je znajomym. Zdarza się, że po pewnym czasie z naszej półki znikają przeczytane książki, a na ich miejsce pojawiają się te pożyczone. Czasami trudno nam zapamiętać, która książka została pożyczona komu i kiedy, albo od kogo ją pożyczyłyśmy. Nasz program rozwiązuje ten problem, gromadząc wszystkie informacje w prosty i przejrzysty sposób.
 
